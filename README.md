@@ -1,6 +1,6 @@
 # Unir Control Practicas
 
-FastAPI app for generating a follow-up document for student internships/practices. It collects student and center data, selects activities tied to modules and learning outcomes, and renders a docx using a template.
+Generador web para documentos de seguimiento de practicas. Evita la pereza de rellenar formularios tediosos a mano: guarda los datos constantes, permite reutilizarlos, y genera el docx final desde una plantilla con un par de clicks.
 
 ## Funcionalidad
 - Formulario web con datos de alumno y centro.
